@@ -1,56 +1,50 @@
 <!-- Typing SVG Banner -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00C2FF&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ornob!;Aspiring+Full-Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver;Lifelong+Learner+%F0%9F%93%9A)](https://git.io/typing-svg)
 
-# 💻 About Me
-- 🎓 CSE Student passionate about **Software Development**  
-- 🌱 Currently learning **JavaScript, TypeScript, and Full-Stack Development**  
-- 🛠 Building projects like **Hotel Management Systems** & learning by doing  
-- 🎯 Goal: Become a **Job-Ready Full Stack Developer** within 6 months  
-- ⚡ Fun fact: I love solving problems and exploring new tech tools  
+I'm a CSE Student passionate about ***Software Development***
+
+ **About Me**
+ 
+- 📈 Currently learning [JavaScript](https://github.com/borno-22/self-study/tree/master/JavaScript)
+  
+- 🛠 Ongoing projects [Hotel Management Systems](https://github.com/borno-22/hotel-management-system)
+
+- 📋 Plan to learn: React.js, Python
+  
+- 🎯 Goal: Become a Full Stack Developer
+
+- ❤️ I love writing clean code, and building fun exploring new tech tools
+  
+---
+
+**🛠 Tech Stack**
+
+***Languages***  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+***Frontend***  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+***Database***  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 ---
 
-# 🛠 Tech Stack
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+**📊 GitHub Stats**
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=borno-22&theme=radical&hide_border=false" />
+</p>
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-![Borno's GitHub stats](https://github-readme-stats.vercel.app/api?username=borno-22&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borno-22&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=borno-22&theme=tokyonight&hide_border=false)
-
----
-
-# 🚀 Featured Projects
-- [Hotel Management System](https://github.com/borno-22/hotel-management) – A C# WinForms-based management software  
-- [JavaScript Learning Path](https://github.com/borno-22/self-study/tree/main/JavaScript) – My journey learning JS step by step  
-- [Future Project Placeholder 🚧](https://github.com/borno-22) – More coming soon!  
-
----
-
-# 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github)](https://yourportfolio.com)  
-📧 Email: **your-email@example.com**
-
----
+| <a href="https://github.com/borno-22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=borno-22&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=false" /></a> | <a href="https://github.com/borno-22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borno-22&layout=compact&theme=radical&hide_border=false&count_private=false&include_all_commits=true" /></a> |
+| ------------- | ------------- |
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:302b63,100:0f0c29&height=100&section=footer)
