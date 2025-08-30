@@ -45,6 +45,3 @@ I'm a CSE Student passionate about ***Software Development***
 
 | <a href="https://github.com/borno-22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=borno-22&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=false" /></a> | <a href="https://github.com/borno-22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borno-22&layout=compact&theme=radical&hide_border=false&count_private=false&include_all_commits=true" /></a> |
 | ------------- | ------------- |
-
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:302b63,100:0f0c29&height=100&section=footer)
