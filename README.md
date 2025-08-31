@@ -13,7 +13,7 @@ I'm a CSE Student passionate about ***Software Development***
   
 - 🎯 Goal: Become a Full Stack Developer
 
-- ❤️ I love writing clean code, and building fun exploring new tech tools
+- ❤️ I love writing clean code, and exploring new tech tools
   
 ---
 
