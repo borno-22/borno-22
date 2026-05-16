@@ -5,11 +5,11 @@ I'm a CSE Student passionate about ***Software Development***
 
  **About Me**
  
-- 📈 Currently learning [JavaScript](https://github.com/borno-22/self-study/tree/master/JavaScript)
+- 📈 Currently learning [PHP](https://github.com/borno-22/WTechSpring_25-26.git)
   
-- 🛠 Ongoing projects [Hotel Management Systems](https://github.com/borno-22/hotel-management-system)
+- 🛠 Ongoing projects [Task & Project Management Tool](https://github.com/WS-Galib/WTech_Project_Grp_08)
 
-- 📋 Plan to learn: React.js, Python
+- 📋 Plan to learn: React.js, Next.js
   
 - 🎯 Goal: Become a Full Stack Developer
 
@@ -21,7 +21,6 @@ I'm a CSE Student passionate about ***Software Development***
 
 ***Languages***  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,6 +28,10 @@ I'm a CSE Student passionate about ***Software Development***
 ***Frontend***  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+***Backend***  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ***Database***  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
